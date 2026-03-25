@@ -89,8 +89,10 @@ Current hotel booking processes are often manual, leading to delays, errors, and
 ---
 
 ## 12. Team
-- Business Analyst: Nguyen Tran Yen Dan
-- Team size: 3 members  
+Team size: 3 members
+  1. Nguyễn Trần Yên Đan 
+  2. Hồng Trang Anh
+  3. Nguyễn Vũ Tường Anh
 
 
 
