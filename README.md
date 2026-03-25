@@ -53,16 +53,16 @@ Current hotel booking processes are often manual, leading to delays, errors, and
 ## 8. Diagrams Preview
 
 ### BPMN
-![BPMN](diagrams/BPMN.png)
+![BPMN](diagrams/BPMN Diagram.png)
 
 ### ERD
-![ERD](diagrams/ERD.png)
+![ERD](diagrams/ERD Diagram.png)
 
 ### DFD Level 0
-![DFD0](diagrams/DFD_Level0.png)
+![DFD0](diagrams/DFD level0.png)
 
 ### DFD Level 1
-![DFD1](diagrams/DFD_Level1.png)
+![DFD1](diagrams/DFD level1.png)
 
 ---
 
