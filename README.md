@@ -50,7 +50,7 @@ Current hotel booking processes are often manual, leading to delays, errors, and
 
 ---
 
-## Diagrams Preview
+## 8. Diagrams Preview
 
 ### BPMN
 ![BPMN](diagrams/BPMN.png)
