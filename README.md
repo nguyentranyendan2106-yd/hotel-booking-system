@@ -21,7 +21,8 @@ Current hotel booking processes are often manual, leading to delays, errors, and
 - Search Room  
 - Select Room  
 - Book Room  
-- Payment Processing  
+- Payment Processing
+- Verify Payment
 
 ---
 
@@ -30,7 +31,10 @@ Current hotel booking processes are often manual, leading to delays, errors, and
 - Use Case Specification  
 - ERD (Entity Relationship Diagram)  
 - DFD Level 0  
-- DFD Level 1  
+- DFD Level 1
+- Hotel Booking Use Case Description
+- Hotel Booking Business Process Description
+- Hotel Booking Report
 
 ---
 
